@@ -2153,9 +2153,11 @@ body {
   color: #767676 !important;
 }
 .cid-qZHjRHm7dk {
-  padding-top: 90px;
-  padding-bottom: 90px;
-  background-color: #073b4c;
+  background-color: #232323;
+}
+.cid-qZHjRHm7dk P {
+  text-align: left;
+  color: #efefef;
 }
 .cid-qZw3AM7NfF .navbar {
   background: #ffffff;
@@ -2545,6 +2547,17 @@ body {
 .cid-qZw3AM7NfF .nav-link:hover,
 .cid-qZw3AM7NfF .dropdown-item:hover {
   color: #767676 !important;
+}
+.cid-qZZiY6RbZm {
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background-color: #ffffff;
+}
+.cid-qZZiY6RbZm .mbr-section-subtitle {
+  color: #767676;
+}
+.cid-qZZiY6RbZm .mbr-section-subtitle DIV {
+  text-align: left;
 }
 .cid-qZw1NjAerK .navbar {
   background: #ffffff;
